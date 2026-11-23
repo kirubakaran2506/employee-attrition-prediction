@@ -1,5 +1,3 @@
-https://attrition-prediction-kirubakaran.netlify.app/
-
 Project Overview
 
 This project aims to predict employee attrition using machine learning techniques. It serves as a decision-support tool for HR departments to identify employees at risk of leaving and take 
@@ -42,3 +40,7 @@ Expected Outcomes
 Future Enhancements
 
 * Integration of sentiment analysis from employee feedbacks.
+
+
+run index.html file
+https://attrition-prediction-kirubakaran.netlify.app/
