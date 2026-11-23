@@ -1,4 +1,4 @@
-website https://attrition-prediction-kirubakaran.netlify.app/
+https://attrition-prediction-kirubakaran.netlify.app/
 
 Project Overview
 
